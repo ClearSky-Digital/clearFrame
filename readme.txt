@@ -21,7 +21,7 @@ ClearFrame is a small classic theme with a calm, finished default look. Colors, 
 
 == Privacy ==
 
-The theme collects no user data and makes no external requests.
+The theme collects no user data and makes no requests of its own. Avatars in comments come from Gravatar through WordPress core when avatars are turned on in Settings > Discussion.
 
 == Frequently Asked Questions ==
 
