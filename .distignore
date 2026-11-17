@@ -1,0 +1,7 @@
+.git
+.gitattributes
+.gitignore
+.distignore
+.agent
+scripts
+README.md

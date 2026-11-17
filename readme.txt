@@ -14,6 +14,8 @@ A clear, simple frame for a website. No page builder, no bundled plugins, no blo
 
 ClearFrame is a small classic theme with a calm, finished default look. Colors, fonts and spacing are CSS custom properties, and the header, content and footer have named hooks, so each site can get its own look from a plugin or a child stylesheet.
 
+Built and maintained by [ClearSky Digital](https://cscloud.digital).
+
 * Primary and footer menus, a footer widget area, a custom logo.
 * Skip link, visible focus and a mobile menu that works from the keyboard.
 * System font stack, so no fonts are loaded from other servers.
