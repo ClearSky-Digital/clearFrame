@@ -6,7 +6,7 @@ Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Tags: blog, one-column, two-columns, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks
+Tags: blog, one-column, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks
 
 A clear, simple frame for a website. No page builder, no bundled plugins, no bloat.
 
@@ -18,6 +18,10 @@ ClearFrame is a small classic theme with a calm, finished default look. Colors, 
 * Skip link, visible focus and a mobile menu that works from the keyboard.
 * System font stack, so no fonts are loaded from other servers.
 * The footer shows only the site owner's copyright. A "Built on ClearFrame" credit is available in the Customizer and is off by default.
+
+== Privacy ==
+
+The theme collects no user data and makes no external requests.
 
 == Frequently Asked Questions ==
 

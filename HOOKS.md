@@ -36,9 +36,9 @@ Output of both filters passes through `wp_kses_post()`.
 ## Stable class names
 
 Header: `cf-header`, `cf-header__inner`, `cf-branding`, `cf-site-logo`, `cf-site-title`, `cf-site-tagline`, `cf-nav`, `cf-nav__toggle`, `cf-menu`.
-Content: `cf-main`, `cf-page-header`, `cf-page-title`, `cf-entry`, `cf-entry--summary`, `cf-entry__header`, `cf-entry__title`, `cf-entry__meta`, `cf-entry__content`, `cf-entry__image`, `cf-entry__thumb`, `cf-entry__footer`.
-Comments and search: `cf-comments`, `cf-comment-list`, `cf-search`, `cf-search__field`, `cf-button`.
-Footer: `cf-footer`, `cf-footer__inner`, `cf-footer__widgets`, `cf-widget`, `cf-footer-nav`, `cf-footer__text`, `cf-copyright`, `cf-credit`.
+Content: `cf-main`, `cf-page-header`, `cf-page-title`, `cf-entry`, `cf-entry--summary`, `cf-entry__header`, `cf-entry__title`, `cf-entry__meta`, `cf-entry__content`, `cf-entry__image`, `cf-entry__thumb`, `cf-entry__footer`, `cf-entry__cats`, `cf-entry__tags`, `cf-entry__author`, `cf-archive-description`.
+Comments and search: `cf-comments`, `cf-comment-list`, `cf-search`, `cf-search__field`, `cf-button`, `cf-comments__title`, `cf-comments__closed`.
+Footer: `cf-footer`, `cf-footer__inner`, `cf-footer__widgets`, `cf-widget`, `cf-widget__title`, `cf-menu--footer`, `cf-footer-nav`, `cf-footer__text`, `cf-copyright`, `cf-credit`.
 
 ## Custom properties
 
