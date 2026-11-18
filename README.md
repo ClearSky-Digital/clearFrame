@@ -6,7 +6,7 @@ Built and maintained by [ClearSky Digital](https://cscloud.digital).
 
 ## Download and install
 
-1. Open the [Releases page](../../releases) of this repository and download `clearframe.zip` from the latest release.
+1. Open the [Releases page](https://github.com/ClearSky-Digital/clearFrame/releases/latest) of this repository and download `clearframe.zip` from the latest release.
 2. In WordPress, go to Appearance, Themes, Add New Theme, Upload Theme, choose the zip and install it.
 3. Activate ClearFrame. Set the menus under Appearance, Menus, and the site owner name and optional credit under Appearance, Customize.
 

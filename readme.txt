@@ -3,7 +3,7 @@ Contributors: clearskydigital
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, one-column, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks
@@ -34,6 +34,11 @@ Override the CSS custom properties listed in HOOKS.md from a child theme or a pl
 No. Those belong in plugins.
 
 == Changelog ==
+
+= 1.0.1 =
+* The privacy note now says that avatars in comments come from Gravatar through WordPress core.
+* Tested up to WordPress 7.1.
+* Added a README and a release build script.
 
 = 1.0.0 =
 * First release.

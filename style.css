@@ -4,9 +4,9 @@ Theme URI: https://cscloud.digital/clearframe/
 Author: ClearSky Digital
 Author URI: https://cscloud.digital/
 Description: A clear, simple frame for a website. One template set, no page builder, no bundled plugins and no bloat. Colors, fonts and spacing are CSS custom properties, and the header, content and footer have named hooks, so a plugin or a child stylesheet can give each site its own look.
-Version: 1.0.0
+Version: 1.0.1
 Requires at least: 6.4
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 7.4
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

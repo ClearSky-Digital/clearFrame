@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'CLEARFRAME_VERSION', '1.0.0' );
+define( 'CLEARFRAME_VERSION', '1.0.1' );
 
 if ( ! isset( $content_width ) ) {
 	$content_width = 720;
